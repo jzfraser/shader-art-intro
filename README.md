@@ -14,4 +14,5 @@ signed distance function for the shape, instead of a circle.
 Make sure that you have node and npm, then install the dependencies by running
 `npm install` and when it is finished then the server can be started with
 `npm run start`. This step also builds the JS bundle using Webpack, which is
-done in development mode so the bundle is quite large.
+done in development mode so the bundle is quite large. Once the server is
+running you can find the art by going to `localhost:3000` in a web browser.
