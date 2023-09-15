@@ -62,7 +62,7 @@ function main() {
         d = sin(d * 8.0 + uTime);
         d = abs(d);
 
-        d = pow(0.12 / d, 2.0);
+        d = pow(0.07 / d, 2.0);
 
         finalColor += col * d;
       }
